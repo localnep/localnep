@@ -1,5 +1,7 @@
 <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif" align="right" width="400" height="250">
 
+<img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif">
+
 ### Hi there 👋
 
  I'm a student at Suleyman Demirel University👨‍🎓
