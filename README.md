@@ -1,6 +1,4 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif" width="500" height="320" />
-
-<img align="up" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif" align="right" width="400" height="250">
 
 ### Hi there 👋
 
