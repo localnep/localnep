@@ -11,5 +11,5 @@
 
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 
-[linkedin]: linkedin.com/in/ozan8-erdogan
+[linkedin]: https://www.linkedin.com/in/ozan8-erdogan
 
