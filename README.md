@@ -1,6 +1,7 @@
 <img align="right" alt="GIF" src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="500" height="320" />
 
-![Uploading giphy.gif…]()
+![giphy](https://user-images.githubusercontent.com/75545621/173871734-96b29249-443a-4173-aadd-4de1cbaa3798.gif)
+
 
 
 ### Hi there 👋
