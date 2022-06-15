@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75545621/173871734-96b29249-443a-4173-aadd-4de1cbaa3798.gif" width="400" height="320" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75545621/173871734-96b29249-443a-4173-aadd-4de1cbaa3798.gif" width="450" height="320" />
 
 
 ### Hi there 👋
