@@ -7,8 +7,8 @@
  
 - 🔭 I’m currently working on data science and java GUI application
 - 🌱 I’m currently learning machine learning algorithms
-- 🥅 My goals for the end of 2022: begin to learning big data and deep learning
-- ⚡ Fun fact: I would like to follow statistics in any sport (transfermarkt, eurovision)
+- 🥅 My goals for the end of 2022: begin learning big data and deep learning
+- ⚡ Fun fact: I would like to follow statistics in any kind of sports (transfermarkt, eurovision)
 
 ### Reach out to me
 
