@@ -2,6 +2,9 @@
 
 <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif">
 
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.mp4" width="500" height="320" />
+
 ### Hi there 👋
 
  I'm a student at Suleyman Demirel University👨‍🎓
