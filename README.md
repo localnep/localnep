@@ -1,5 +1,7 @@
 <img align="right" alt="GIF" src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="500" height="320" />
 
+![Uploading giphy.gif…]()
+
 
 ### Hi there 👋
 
@@ -8,7 +10,7 @@
 - 🔭 I’m currently working on data science and java GUI application
 - 🌱 I’m currently learning machine learning algorithms
 - 🥅 My goals for the end of 2022: begin to learning big data and deep learning
-- ⚡ Fun fact: I like to follow statistics in any sport (transfermarkt, eurovision)
+- ⚡ Fun fact: I would like to follow statistics in any sport (transfermarkt, eurovision)
 
 ### Reach out to me
 
