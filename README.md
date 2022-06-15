@@ -1,7 +1,11 @@
-<img align="right" alt="GIF" src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="500" height="320" />
-
 ![giphy](https://user-images.githubusercontent.com/75545621/173871734-96b29249-443a-4173-aadd-4de1cbaa3798.gif)
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
+asdasdasdasdasd
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75545621/173871734-96b29249-443a-4173-aadd-4de1cbaa3798.gif" width="500" height="320" />
 
 
 ### Hi there 👋
