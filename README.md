@@ -9,6 +9,7 @@
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](medium.com/@ozanerdogan)
 
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin.com/in/ozan8-erdogan]
+[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 
+[linkedin]: linkedin.com/in/ozan8-erdogan
 
