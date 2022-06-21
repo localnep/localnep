@@ -10,9 +10,6 @@
 - 🥅 My goals for the end of 2022: begin learning big data and deep learning
 - ⚡ Fun fact: I would like to follow statistics in any kind of sports (transfermarkt, eurovision)
 
-I love listening to music (NCS electro, indie rock, symphonic metal, newage...∞). Sometimes music is the only medicine the heart and soul need.
-my passion: coffee & music & rainy day <3 and background music: don't worry be happy.. that's the feeling
-
 
 ### Reach out to me
 
