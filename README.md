@@ -4,7 +4,7 @@
 ### Hi there 👋
 
  I'm a student at Suleyman Demirel University👨‍🎓
- I just graduated and I have the most beautiful thing in the world. The time.. More time for myself.
+ I've just graduated and I've the most important thing in the life. The time.. I've more time for myself.
  
 - 🔭 I’m currently working on data science and java GUI application
 - 🌱 I’m currently learning machine learning algorithms
